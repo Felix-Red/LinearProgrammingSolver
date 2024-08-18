@@ -1,0 +1,7 @@
+Objective Value: 19
+Variable 1: 0
+Variable 2: 0
+Variable 3: 5
+Variable 4: 0
+Variable 5: 0
+Variable 6: 1

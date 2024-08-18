@@ -1,0 +1,7 @@
+Objective Value: 15
+Variable 1: 0
+Variable 2: 1
+Variable 3: 1
+Variable 4: 1
+Variable 5: 0
+Variable 6: 1

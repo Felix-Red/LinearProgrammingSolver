@@ -1,0 +1,3 @@
+Selected item indices: 1, 2, 3, 5
+Total value: 15
+Total weight: 38

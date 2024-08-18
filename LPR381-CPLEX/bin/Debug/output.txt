@@ -1,0 +1,12 @@
+Canonical Form:
+max +2x1 +3x2 +3x3 +5x4 +2x5 +4x6
++11x1 +8x2 +6x3 +14x4 +10x5 +10x6 + s1 = 40
+2x1 +3x2 -4x3 +4x4 +1x5 +1x6 + s2 = 25
+bin bin bin bin bin bin
+Objective Value: 15
+Variable 1: 0
+Variable 2: 1
+Variable 3: 1
+Variable 4: 1
+Variable 5: 0
+Variable 6: 1
